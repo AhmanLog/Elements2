@@ -1,0 +1,86 @@
+body {
+    font-family: 'Manrope', 'sans-serif';
+    background: grey;
+}
+
+.container {
+    width: 1400px;
+    background: #fff;
+    margin: 0, auto;
+    box-sizing: border-box;
+}
+
+.intro {
+    color: rgb(18, 18, 18);
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin: 125px;
+    margin-bottom: 30px;
+    padding-right: 194px;
+}
+
+.image {
+    background-image: url(/resorces/room.png);
+    width: 1150px;
+    height: 500px;
+    margin-left: 125px;
+    padding-top: 379px;
+    padding-right: 680px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+
+
+}
+
+.text_image {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.post {
+    color: rgb(18, 18, 18);
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-left: 125px;
+    margin-top: 150px;
+}
+
+.text {
+    color: rgb(18, 18, 18);
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-left: 125px;
+    margin-top: 30px;
+    width: 1048px;
+    height: 367px;
+}
+a{
+    color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: 400;
+line-height: 67px;
+letter-spacing: -0.03em;
+text-align: left;
+display: block;
+border-radius: 5px;
+background: rgb(173, 24, 24);
+width: 249px;
+height: 67px;
+text-align: center;
+margin-left: 125px;
+margin-top: 49px;
+}
